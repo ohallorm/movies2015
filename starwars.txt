@@ -1,5 +1,10 @@
 I love this movie.
+<<<<<<< HEAD
 
 Or did I? hmm
 
 I really think its really it.
+=======
+Yes its a good one.
+Yes i like this movie too
+>>>>>>> origin/master
