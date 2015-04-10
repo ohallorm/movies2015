@@ -1,6 +1,5 @@
 I love this movie.
 
-<<<<<<< HEAD
 I really think its really it.
 
 
@@ -10,13 +9,3 @@ Or did I? hmm
 
 Yes its a good one.
 Yes i like this movie too
-
-=======
-
-Or did I? hmm
-
-I really think its really it.
-
-Yes its a good one.
-Yes i like this movie too
->>>>>>> b9dd8e2bc570189f03f5f27c7979086f82f2cfb4
